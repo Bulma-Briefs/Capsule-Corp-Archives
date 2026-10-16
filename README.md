@@ -235,7 +235,7 @@ The recovery system recorded only the following observations:
 
 The fragment was retained exactly as recovered:
 
-`gur_tbq_obea_nzbatfg_fnvlnaf`
+`41 5d 50 6a 52 5a 51 6a 57 5a 47 5b 6a 54 58 5a 5b 52 46 41 6a 52 5a 51 46`
 
 No automated interpretation was performed.
 
