@@ -128,6 +128,8 @@ Nevertheless, the combination of preserved separators and stable character lengt
 
 The original transformation parameters were not included in the recovered metadata.
 
+`44 52 40 6c 58 41 5a 5f 5f 5a 5d 6c 51 46 40 4a`
+
 ## 7. RECOVERY LOG — ARCHIVE NODE 07
 
 **Pass 001:** Initial filesystem inspection completed. Numerous records were unreadable.
@@ -149,6 +151,8 @@ The following note was added by the recovery process:
 "Some fragments exhibit properties inconsistent with ordinary storage damage. Their structure may have been intentionally preserved. Further analysis should focus on the transformation of the characters rather than attempting to repair the underlying record."
 
 No additional explanation accompanied this note.
+
+Note : `44 57 55 57 46 53 6d 45 53 41 6d 40 5b 55 5a 46`
 
 ## 8. UNRESOLVED FRAGMENT REGISTER
 
@@ -218,6 +222,8 @@ The recovery system cannot determine whether missing material was destroyed duri
 The integrity report therefore assigns the archive a PARTIAL status.
 
 All unresolved fragments have been preserved for future investigation.
+
+`43 5c 55 40 6b 5d 47 6b 4d 55 59 57 5c 55 6b 53 5b 5a 5a 55 6b 50 5b`
 
 ## 11. FINAL RECOVERED ENTRY
 
